@@ -1,0 +1,49 @@
+body {
+    background: #BDBDBD;
+    margin: 0;
+    font-family: Poppins;
+}
+
+header {
+    background: white;
+}
+
+header h1 {
+    margin:0;
+    padding-bottom: 10px;
+}
+
+div.post {
+    background: white;
+}
+
+div.post img {
+    width: 100%;
+}
+ 
+div.container , div.fotovarias{
+    width: 600px;
+    margin:auto;
+}
+
+div.post h2 , div.post span{
+    display: inline-block;
+    margin:auto;
+}
+
+div.post h2 {
+ width: 88%;
+ padding: 10px;
+}
+
+div.post p {
+    padding: 10px;
+}
+
+div.post span {
+    color: grey
+}
+
+.post {
+    margin-top: 30px;
+}
